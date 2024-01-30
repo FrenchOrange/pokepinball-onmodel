@@ -29,8 +29,6 @@ $(ROM): $(OBJS) contents/contents.link
 	rgbfix -jsvc -k 01 -l 0x33 -m 0x1e -p 0 -r 02 -t "POKEPINBALL" -i VPHE $@
 
 # For contributors to make sure a change didn't affect the contents of the rom.
-compare: $(ROM)
-	@$(SHA1) -c rom.sha1
 
 tools:
 	$(MAKE) -C tools

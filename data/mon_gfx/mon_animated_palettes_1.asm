@@ -33,13 +33,13 @@ SquirtleAnimatedObjPalette2: ; 0xabf28
 
 CaterpieAnimatedObjPalette1: ; 0xabf30
 	RGB 31, 31, 31
-	RGB 0, 25, 9
-	RGB 27, 13, 0
+	RGB 12, 24, 7
+	RGB 29, 8, 4
 	RGB 0, 0, 0
 CaterpieAnimatedObjPalette2: ; 0xabf38
 	RGB 31, 31, 31
-	RGB 0, 25, 9
-	RGB 27, 13, 0
+	RGB 12, 24, 7
+	RGB 29, 8, 4
 	RGB 0, 0, 0
 
 WeedleAnimatedObjPalette1: ; 0xabf40
@@ -101,12 +101,12 @@ PikachuAnimatedObjPalette1: ; 0xabf90
 	RGB 31, 31, 31
 	RGB 31, 29, 0
 	RGB 23, 10, 0
-	RGB 3, 3, 0
+	RGB 0, 0, 0
 PikachuAnimatedObjPalette2: ; 0xabf98
 	RGB 31, 31, 31
 	RGB 31, 29, 0
 	RGB 23, 10, 0
-	RGB 3, 3, 0
+	RGB 0, 0, 0
 
 SandshrewAnimatedObjPalette1: ; 0xabfa0
 	RGB 31, 31, 31
@@ -166,10 +166,10 @@ VulpixAnimatedObjPalette2: ; 0xabfe8
 JigglypuffAnimatedObjPalette1: ; 0xabff0
 	RGB 31, 31, 31
 	RGB 31, 18, 18
-	RGB 7, 6, 27
+	RGB 2, 10, 14
 	RGB 0, 0, 0
 JigglypuffAnimatedObjPalette2: ; 0xabff8
 	RGB 31, 31, 31
 	RGB 31, 18, 18
-	RGB 7, 6, 27
+	RGB 2, 10, 14
 	RGB 0, 0, 0

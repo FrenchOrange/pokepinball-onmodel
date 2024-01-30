@@ -26,7 +26,7 @@ SeadraBillboardBGPaletteMap: ; 0xda460
 	db $6, $6, $6, $6, $6, $6
 	db $6, $6, $6, $6, $6, $6
 	db $6, $6, $6, $6, $6, $6
-	db $6, $6, $6, $6, $6, $6
+	db $7, $7, $7, $7, $7, $6
 
 GoldeenBillboardBGPaletteMap: ; 0xda478
 	db $6, $6, $6, $6, $6, $6
@@ -65,10 +65,10 @@ ScytherBillboardBGPaletteMap: ; 0xda4f0
 	db $6, $6, $6, $6, $6, $6
 
 JynxBillboardBGPaletteMap: ; 0xda508
-	db $6, $7, $7, $7, $6, $6
+	db $7, $7, $7, $7, $7, $7
+	db $7, $7, $7, $7, $7, $7
+	db $6, $7, $7, $7, $7, $6
 	db $6, $6, $6, $6, $6, $6
-	db $6, $6, $6, $6, $6, $6
-	db $6, $6, $7, $6, $6, $6
 
 ElectabuzzBillboardBGPaletteMap: ; 0xda520
 	db $6, $6, $6, $6, $6, $6

@@ -256,7 +256,7 @@ VermilionStreetsText:
 
 RockMountainText:
 	scrolling_text 5, 31, 3, 20, 2, 17
-	db "ROCK MOUNTAIN @"
+	db "ROCK TUNNEL @"
 
 LavenderTownText:
 	scrolling_text 5, 31, 3, 20, 2, 17
@@ -272,7 +272,7 @@ CyclingRoadText:
 
 FuchiaCityText:
 	scrolling_text 5, 31, 4, 20, 2, 16
-	db "FUCHIA CITY @" ; mispelling -- should be fuchsia
+	db "FUCHSIA CITY @"
 
 SafariZoneText:
 	scrolling_text 5, 31, 4, 20, 2, 16

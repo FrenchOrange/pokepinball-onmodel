@@ -1,6 +1,6 @@
 # Pokémon Pinball
 
-This is a disassembly of Pokémon Pinball (Game Boy Color).
+This is a fork of the disassembly of Pokémon Pinball (Game Boy Color). The goal of this fork is to provide some graphical tweaks to the Pokémon sprites, alongside miscellaneous fixes.
 
 It builds the following rom:
 
@@ -8,6 +8,16 @@ It builds the following rom:
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
+## Changes
+
+* Fixed the spelling of "Fuchia City", and corrected "Rock Mountain" to "Rock Tunnel".
+* Changed "Poké Dex" to "POKéDEX" on the titlescreen. (Ported from EU version).
+* Changed "POKé DEX" to "POKéDEX" on the Pokédex interface.
+* Changed the initials of the Great / Ultra Ball from S and H to G and U respectively.
+* Fixed the width inconsistency in the "RUMBLE" label. (Ported from EU version).
+* Fixed Pokémon silhouette-to-portrait inconsistencies.
+* Updated a good handful of Pokémon portraits, animated sprites, and palettes.
+* Updated Jynx to use its modern design. (Ported from EU version).
 
 ## See also
 

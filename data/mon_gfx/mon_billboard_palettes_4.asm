@@ -2,23 +2,23 @@ PidgeottoBillboardBGPalette1: ; 0xdba80
 	RGB 31, 31, 31
 	RGB 30, 21, 0
 	RGB 28, 6, 1
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 PidgeottoBillboardBGPalette2: ; 0xdba88
 	RGB 31, 31, 31
 	RGB 30, 21, 0
 	RGB 28, 6, 1
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 
 PidgeotBillboardBGPalette1: ; 0xdba90
 	RGB 31, 31, 31
 	RGB 26, 23, 0
 	RGB 28, 6, 1
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 PidgeotBillboardBGPalette2: ; 0xdba98
 	RGB 31, 31, 31
 	RGB 26, 23, 0
 	RGB 28, 6, 1
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 
 RattataBillboardBGPalette1: ; 0xdbaa0
 	RGB 31, 31, 31
@@ -35,12 +35,12 @@ RaticateBillboardBGPalette1: ; 0xdbab0
 	RGB 31, 31, 31
 	RGB 30, 24, 7
 	RGB 27, 7, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 RaticateBillboardBGPalette2: ; 0xdbab8
 	RGB 31, 31, 31
 	RGB 30, 24, 7
 	RGB 27, 7, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 
 SpearowBillboardBGPalette1: ; 0xdbac0
 	RGB 31, 31, 31
@@ -90,23 +90,23 @@ PikachuBillboardBGPalette1: ; 0xdbb00
 	RGB 31, 31, 31
 	RGB 30, 24, 4
 	RGB 27, 7, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 PikachuBillboardBGPalette2: ; 0xdbb08
 	RGB 31, 31, 31
 	RGB 30, 24, 4
 	RGB 27, 7, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 
 RaichuBillboardBGPalette1: ; 0xdbb10
 	RGB 31, 31, 31
 	RGB 30, 26, 3
 	RGB 29, 16, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 RaichuBillboardBGPalette2: ; 0xdbb18
 	RGB 31, 31, 31
 	RGB 30, 26, 3
 	RGB 29, 16, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 
 SandshrewBillboardBGPalette1: ; 0xdbb20
 	RGB 31, 31, 31
@@ -123,12 +123,12 @@ SandslashBillboardBGPalette1: ; 0xdbb30
 	RGB 31, 31, 31
 	RGB 31, 25, 7
 	RGB 25, 10, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 SandslashBillboardBGPalette2: ; 0xdbb38
 	RGB 31, 31, 31
 	RGB 31, 25, 7
 	RGB 25, 10, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 
 NidoranFBillboardBGPalette1: ; 0xdbb40
 	RGB 31, 31, 31

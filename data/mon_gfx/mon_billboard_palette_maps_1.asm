@@ -72,9 +72,9 @@ GloomBillboardBGPaletteMap: ; 0xd7308
 
 VileplumeBillboardBGPaletteMap: ; 0xd7320
 	db $6, $6, $6, $6, $6, $6
-	db $6, $6, $6, $6, $6, $6
+	db $6, $7, $6, $6, $7, $6
 	db $6, $7, $7, $7, $7, $6
-	db $6, $6, $7, $7, $7, $6
+	db $6, $7, $7, $7, $7, $6
 
 ParasBillboardBGPaletteMap: ; 0xd7338
 	db $6, $6, $6, $6, $6, $6

@@ -34,12 +34,12 @@ ClefairyBillboardBGPalette2: ; 0xdc128
 ClefableBillboardBGPalette1: ; 0xdc130
 	RGB 31, 31, 31
 	RGB 31, 14, 18
-	RGB 20, 8, 4
+	RGB 21, 4, 4
 	RGB 0, 0, 0
 ClefableBillboardBGPalette2: ; 0xdc138
 	RGB 31, 31, 31
 	RGB 31, 14, 18
-	RGB 20, 8, 4
+	RGB 21, 4, 4
 	RGB 0, 0, 0
 
 VulpixBillboardBGPalette1: ; 0xdc140
@@ -55,42 +55,42 @@ VulpixBillboardBGPalette2: ; 0xdc148
 
 NinetalesBillboardBGPalette1: ; 0xdc150
 	RGB 31, 31, 31
-	RGB 28, 26, 0
-	RGB 23, 12, 3
+	RGB 31, 26, 13
+	RGB 20, 14, 4
 	RGB 0, 0, 0
 NinetalesBillboardBGPalette2: ; 0xdc158
 	RGB 31, 31, 31
-	RGB 28, 26, 0
-	RGB 23, 12, 3
+	RGB 31, 26, 13
+	RGB 20, 14, 4
 	RGB 0, 0, 0
 
 JigglypuffBillboardBGPalette1: ; 0xdc160
 	RGB 31, 31, 31
 	RGB 31, 16, 19
 	RGB 22, 6, 11
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 JigglypuffBillboardBGPalette2: ; 0xdc168
 	RGB 31, 31, 31
 	RGB 31, 16, 19
-	RGB 13, 2, 21
+	RGB 2, 7, 10
 	RGB 0, 0, 0
 
 WigglytuffBillboardBGPalette1: ; 0xdc170
 	RGB 31, 31, 31
 	RGB 31, 16, 19
 	RGB 22, 6, 11
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 WigglytuffBillboardBGPalette2: ; 0xdc178
 	RGB 31, 31, 31
 	RGB 31, 16, 19
-	RGB 13, 5, 19
+	RGB 4, 10, 11
 	RGB 0, 0, 0
 
 ZubatBillboardBGPalette1: ; 0xdc180
 	RGB 31, 31, 31
 	RGB 14, 15, 30
 	RGB 10, 5, 26
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 ZubatBillboardBGPalette2: ; 0xdc188
 	RGB 31, 31, 31
 	RGB 14, 15, 30
@@ -101,7 +101,7 @@ GolbatBillboardBGPalette1: ; 0xdc190
 	RGB 31, 31, 31
 	RGB 15, 15, 30
 	RGB 10, 5, 26
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 GolbatBillboardBGPalette2: ; 0xdc198
 	RGB 31, 31, 31
 	RGB 15, 15, 30
@@ -137,8 +137,8 @@ VileplumeBillboardBGPalette1: ; 0xdc1c0
 	RGB 0, 0, 0
 VileplumeBillboardBGPalette2: ; 0xdc1c8
 	RGB 31, 31, 31
-	RGB 19, 20, 31
 	RGB 4, 8, 14
+	RGB 28, 4, 0
 	RGB 0, 0, 0
 
 ParasBillboardBGPalette1: ; 0xdc1d0
@@ -275,24 +275,24 @@ PrimeapeBillboardBGPalette2: ; 0xdc288
 
 GrowlitheBillboardBGPalette1: ; 0xdc290
 	RGB 31, 31, 31
-	RGB 28, 27, 10
+	RGB 26, 23, 15
 	RGB 26, 12, 0
 	RGB 0, 0, 0
 GrowlitheBillboardBGPalette2: ; 0xdc298
 	RGB 31, 31, 31
-	RGB 28, 27, 10
+	RGB 26, 23, 15
 	RGB 31, 0, 0
 	RGB 0, 0, 0
 
 ArcanineBillboardBGPalette1: ; 0xdc2a0
 	RGB 31, 31, 31
-	RGB 28, 27, 10
+	RGB 26, 23, 15
 	RGB 26, 12, 0
 	RGB 0, 0, 0
 ArcanineBillboardBGPalette2: ; 0xdc2a8
 	RGB 31, 31, 31
-	RGB 28, 27, 10
-	RGB 31, 0, 0
+	RGB 26, 23, 15
+	RGB 26, 12, 0
 	RGB 0, 0, 0
 
 PoliwagBillboardBGPalette1: ; 0xdc2b0
@@ -363,24 +363,24 @@ HypnoBillboardBGPalette2: ; 0xdc308
 
 KrabbyBillboardBGPalette1: ; 0xdc310
 	RGB 31, 31, 31
-	RGB 31, 16, 17
-	RGB 25, 6, 0
+	RGB 29, 22, 16
+	RGB 27, 8, 0
 	RGB 0, 0, 0
 KrabbyBillboardBGPalette2: ; 0xdc318
 	RGB 31, 31, 31
-	RGB 31, 16, 17
-	RGB 25, 6, 0
+	RGB 29, 22, 16
+	RGB 27, 8, 0
 	RGB 0, 0, 0
 
 KinglerBillboardBGPalette1: ; 0xdc320
 	RGB 31, 31, 31
-	RGB 31, 16, 17
-	RGB 25, 6, 0
+	RGB 29, 22, 16
+	RGB 27, 8, 0
 	RGB 0, 0, 0
 KinglerBillboardBGPalette2: ; 0xdc328
 	RGB 31, 31, 31
-	RGB 31, 16, 17
-	RGB 25, 6, 0
+	RGB 29, 22, 16
+	RGB 27, 8, 0
 	RGB 0, 0, 0
 
 VoltorbBillboardBGPalette1: ; 0xdc330
@@ -420,7 +420,7 @@ ExeggutorBillboardBGPalette1: ; 0xdc360
 	RGB 31, 31, 31
 	RGB 31, 27, 5
 	RGB 7, 18, 0
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 ExeggutorBillboardBGPalette2: ; 0xdc368
 	RGB 31, 31, 31
 	RGB 31, 23, 5
@@ -464,7 +464,7 @@ HitmonchanBillboardBGPalette1: ; 0xdc3a0
 	RGB 31, 31, 31
 	RGB 31, 21, 13
 	RGB 23, 3, 3
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 HitmonchanBillboardBGPalette2: ; 0xdc3a8
 	RGB 31, 31, 31
 	RGB 31, 21, 13
@@ -486,7 +486,7 @@ KoffingBillboardBGPalette1: ; 0xdc3c0
 	RGB 31, 31, 31
 	RGB 21, 13, 28
 	RGB 10, 7, 14
-	RGB 3, 2, 0
+	RGB 0, 0, 0
 KoffingBillboardBGPalette2: ; 0xdc3c8
 	RGB 31, 31, 31
 	RGB 21, 13, 28
@@ -671,13 +671,13 @@ HaunterBillboardBGPalette2: ; 0xdc4c8
 
 GengarBillboardBGPalette1: ; 0xdc4d0
 	RGB 31, 31, 31
-	RGB 18, 21, 23
-	RGB 10, 12, 13
+	RGB 16, 13, 20
+	RGB 10, 8, 12
 	RGB 0, 0, 0
 GengarBillboardBGPalette2: ; 0xdc4d8
 	RGB 31, 31, 31
 	RGB 31, 11, 6
-	RGB 10, 12, 13
+	RGB 10, 8, 12
 	RGB 0, 0, 0
 
 OnixBillboardBGPalette1: ; 0xdc4e0

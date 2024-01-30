@@ -38,7 +38,7 @@ HorseaBillboardBGPalette1: ; 0x5bf30
 	RGB 0, 0, 0
 HorseaBillboardBGPalette2: ; 0x5bf38
 	RGB 31, 31, 31
-	RGB 25, 26, 3
+	RGB 26, 23, 12
 	RGB 4, 7, 22
 	RGB 0, 0, 0
 
@@ -49,30 +49,30 @@ SeadraBillboardBGPalette1: ; 0x5bf40
 	RGB 0, 0, 0
 SeadraBillboardBGPalette2: ; 0x5bf48
 	RGB 31, 31, 31
-	RGB 12, 19, 31
+	RGB 26, 23, 12
 	RGB 4, 7, 22
 	RGB 0, 0, 0
 
 GoldeenBillboardBGPalette1: ; 0x5bf50
 	RGB 31, 31, 31
-	RGB 30, 16, 4
+	RGB 29, 16, 10
 	RGB 29, 3, 0
 	RGB 0, 0, 0
 GoldeenBillboardBGPalette2: ; 0x5bf58
 	RGB 31, 31, 31
-	RGB 30, 16, 4
+	RGB 29, 16, 10
 	RGB 29, 3, 0
 	RGB 0, 0, 0
 
 SeakingBillboardBGPalette1: ; 0x5bf60
 	RGB 31, 31, 31
-	RGB 29, 17, 5
-	RGB 31, 5, 0
+	RGB 31, 17, 8
+	RGB 27, 4, 1
 	RGB 0, 0, 0
 SeakingBillboardBGPalette2: ; 0x5bf68
 	RGB 31, 31, 31
-	RGB 29, 17, 5
-	RGB 31, 5, 0
+	RGB 31, 17, 8
+	RGB 27, 4, 1
 	RGB 0, 0, 0
 
 StaryuBillboardBGPalette1: ; 0x5bf70
@@ -121,13 +121,13 @@ ScytherBillboardBGPalette2: ; 0x5bfa8
 
 JynxBillboardBGPalette1: ; 0x5bfb0
 	RGB 31, 31, 31
-	RGB 29, 13, 15
-	RGB 30, 6, 1
+	RGB 31, 24, 7
+	RGB 25, 0, 0
 	RGB 0, 0, 0
 JynxBillboardBGPalette2: ; 0x5bfb8
 	RGB 31, 31, 31
-	RGB 31, 21, 0
-	RGB 30, 6, 1
+	RGB 29, 6, 19
+	RGB 14, 2, 15
 	RGB 0, 0, 0
 
 ElectabuzzBillboardBGPalette1: ; 0x5bfc0
@@ -154,7 +154,7 @@ MagmarBillboardBGPalette2: ; 0x5bfd8
 
 PinsirBillboardBGPalette1: ; 0x5bfe0
 	RGB 31, 31, 31
-	RGB 17, 23, 10
+	RGB 18, 21, 17
 	RGB 21, 10, 3
 	RGB 0, 0, 0
 PinsirBillboardBGPalette2: ; 0x5bfe8
