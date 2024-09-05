@@ -99,12 +99,12 @@ StarmieBillboardBGPalette2: ; 0x5bf88
 
 MrMimeBillboardBGPalette1: ; 0x5bf90
 	RGB 31, 31, 31
-	RGB 31, 17, 19
+	RGB 31, 18, 16
 	RGB 28, 6, 4
 	RGB 0, 0, 0
 MrMimeBillboardBGPalette2: ; 0x5bf98
 	RGB 31, 31, 31
-	RGB 31, 17, 19
+	RGB 31, 18, 16
 	RGB 28, 6, 4
 	RGB 0, 0, 0
 

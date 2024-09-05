@@ -137,7 +137,7 @@ KabutopsBillboardBGPalette1: ; 0x7bfc0
 	RGB 0, 0, 0
 KabutopsBillboardBGPalette2: ; 0x7bfc8
 	RGB 31, 31, 31
-	RGB 16, 25, 12
+	RGB 17, 21, 19
 	RGB 19, 12, 0
 	RGB 0, 0, 0
 

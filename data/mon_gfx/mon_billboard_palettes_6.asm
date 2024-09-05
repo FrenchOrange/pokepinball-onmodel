@@ -22,13 +22,13 @@ MoltresBillboardBGPalette2: ; 0xdc718
 
 DratiniBillboardBGPalette1: ; 0xdc720
 	RGB 31, 31, 31
-	RGB 17, 19, 24
-	RGB 6, 11, 15
+	RGB 16, 18, 23
+	RGB 4, 9, 16
 	RGB 0, 0, 0
 DratiniBillboardBGPalette2: ; 0xdc728
 	RGB 31, 31, 31
-	RGB 17, 19, 24
-	RGB 6, 11, 15
+	RGB 16, 18, 23
+	RGB 4, 9, 16
 	RGB 0, 0, 0
 
 DragonairBillboardBGPalette1: ; 0xdc730

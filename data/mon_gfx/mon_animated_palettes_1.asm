@@ -1,12 +1,12 @@
 BulbasaurAnimatedObjPalette1: ; 0xabf00
 	RGB 31, 31, 31
-	RGB 5, 21, 30
-	RGB 1, 3, 22
+	RGB 3, 23, 21
+	RGB 1, 13, 8
 	RGB 0, 0, 0
 BulbasaurAnimatedObjPalette2: ; 0xabf08
 	RGB 31, 31, 31
-	RGB 0, 21, 15
-	RGB 0, 12, 6
+	RGB 0, 18, 10
+	RGB 0, 9, 3
 	RGB 0, 0, 0
 
 CharmanderAnimatedObjPalette1: ; 0xabf10

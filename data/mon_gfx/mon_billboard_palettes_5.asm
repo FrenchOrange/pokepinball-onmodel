@@ -44,12 +44,12 @@ ClefableBillboardBGPalette2: ; 0xdc138
 
 VulpixBillboardBGPalette1: ; 0xdc140
 	RGB 31, 31, 31
-	RGB 31, 17, 13
+	RGB 30, 17, 11
 	RGB 25, 6, 0
 	RGB 0, 0, 0
 VulpixBillboardBGPalette2: ; 0xdc148
 	RGB 31, 31, 31
-	RGB 31, 17, 13
+	RGB 30, 17, 11
 	RGB 25, 6, 0
 	RGB 0, 0, 0
 
@@ -512,7 +512,7 @@ RhyhornBillboardBGPalette1: ; 0xdc3e0
 RhyhornBillboardBGPalette2: ; 0xdc3e8
 	RGB 31, 31, 31
 	RGB 21, 21, 21
-	RGB 13, 11, 16
+	RGB 31, 0, 0
 	RGB 0, 0, 0
 
 RhydonBillboardBGPalette1: ; 0xdc3f0
@@ -523,7 +523,7 @@ RhydonBillboardBGPalette1: ; 0xdc3f0
 RhydonBillboardBGPalette2: ; 0xdc3f8
 	RGB 31, 31, 31
 	RGB 21, 21, 21
-	RGB 13, 11, 16
+	RGB 31, 0, 0
 	RGB 0, 0, 0
 
 MagnemiteBillboardBGPalette1: ; 0xdc400

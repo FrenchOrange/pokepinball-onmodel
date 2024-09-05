@@ -33,35 +33,35 @@ RattataBillboardBGPalette2: ; 0xdbaa8
 
 RaticateBillboardBGPalette1: ; 0xdbab0
 	RGB 31, 31, 31
-	RGB 30, 24, 7
-	RGB 27, 7, 0
+	RGB 23, 18, 7
+	RGB 12, 8, 3
 	RGB 0, 0, 0
 RaticateBillboardBGPalette2: ; 0xdbab8
 	RGB 31, 31, 31
-	RGB 30, 24, 7
-	RGB 27, 7, 0
+	RGB 23, 18, 7
+	RGB 12, 8, 3
 	RGB 0, 0, 0
 
 SpearowBillboardBGPalette1: ; 0xdbac0
 	RGB 31, 31, 31
-	RGB 31, 24, 2
-	RGB 30, 3, 0
+	RGB 26, 17, 9
+	RGB 27, 7, 10
 	RGB 0, 0, 0
 SpearowBillboardBGPalette2: ; 0xdbac8
 	RGB 31, 31, 31
-	RGB 31, 24, 2
-	RGB 30, 3, 0
+	RGB 26, 17, 9
+	RGB 17, 8, 4
 	RGB 0, 0, 0
 
 FearowBillboardBGPalette1: ; 0xdbad0
 	RGB 31, 31, 31
-	RGB 31, 24, 2
-	RGB 30, 3, 0
+	RGB 26, 17, 9
+	RGB 27, 7, 10
 	RGB 0, 0, 0
 FearowBillboardBGPalette2: ; 0xdbad8
 	RGB 31, 31, 31
-	RGB 31, 24, 2
-	RGB 30, 3, 0
+	RGB 26, 17, 9
+	RGB 17, 8, 4
 	RGB 0, 0, 0
 
 EkansBillboardBGPalette1: ; 0xdbae0
@@ -143,13 +143,13 @@ NidoranFBillboardBGPalette2: ; 0xdbb48
 
 NidorinaBillboardBGPalette1: ; 0xdbb50
 	RGB 31, 31, 31
-	RGB 19, 23, 31
-	RGB 8, 8, 24
+	RGB 19, 24, 31
+	RGB 5, 13, 16
 	RGB 0, 0, 0
 NidorinaBillboardBGPalette2: ; 0xdbb58
 	RGB 31, 31, 31
-	RGB 19, 23, 31
-	RGB 8, 8, 24
+	RGB 19, 24, 31
+	RGB 5, 13, 16
 	RGB 0, 0, 0
 
 NidoqueenBillboardBGPalette1: ; 0xdbb60

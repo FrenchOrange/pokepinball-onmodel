@@ -44,12 +44,12 @@ VenonatAnimatedObjPalette2: ; 0xdb7b8
 
 DiglettAnimatedObjPalette1: ; 0xdb7c0
 	RGB 31, 31, 31
-	RGB 31, 18, 1
+	RGB 27, 16, 9
 	RGB 24, 9, 3
 	RGB 0, 0, 0
 DiglettAnimatedObjPalette2: ; 0xdb7c8
 	RGB 31, 31, 31
-	RGB 31, 18, 1
+	RGB 27, 16, 9
 	RGB 24, 9, 3
 	RGB 0, 0, 0
 
@@ -99,13 +99,13 @@ GrowlitheAnimatedObjPalette2: ; 0xdb808
 
 PoliwagAnimatedObjPalette1: ; 0xdb810
 	RGB 31, 31, 31
-	RGB 17, 19, 23
 	RGB 30, 15, 14
+	RGB 10, 10, 16
 	RGB 0, 0, 0
 PoliwagAnimatedObjPalette2: ; 0xdb818
 	RGB 31, 31, 31
-	RGB 17, 19, 23
 	RGB 30, 15, 14
+	RGB 10, 10, 16
 	RGB 0, 0, 0
 
 AbraAnimatedObjPalette1: ; 0xdb820
@@ -253,13 +253,13 @@ ShellderAnimatedObjPalette2: ; 0xdb8e8
 
 GastlyAnimatedObjPalette1: ; 0xdb8f0
 	RGB 31, 31, 31
-	RGB 25, 17, 28
-	RGB 12, 7, 15
+	RGB 26, 18, 27
+	RGB 15, 8, 16
 	RGB 0, 0, 0
 GastlyAnimatedObjPalette2: ; 0xdb8f8
 	RGB 31, 31, 31
-	RGB 31, 23, 17
-	RGB 23, 8, 4
+	RGB 26, 18, 27
+	RGB 15, 8, 16
 	RGB 0, 0, 0
 
 OnixAnimatedObjPalette1: ; 0xdb900
@@ -385,13 +385,13 @@ RhyhornAnimatedObjPalette2: ; 0xdb9a8
 
 ChanseyAnimatedObjPalette1: ; 0xdb9b0
 	RGB 31, 31, 31
-	RGB 31, 18, 16
-	RGB 31, 11, 9
+	RGB 31, 15, 20
+	RGB 27, 5, 7
 	RGB 0, 0, 0
 ChanseyAnimatedObjPalette2: ; 0xdb9b8
 	RGB 31, 31, 31
-	RGB 31, 18, 16
-	RGB 31, 11, 9
+	RGB 31, 15, 20
+	RGB 27, 5, 7
 	RGB 0, 0, 0
 
 TangelaAnimatedObjPalette1: ; 0xdb9c0

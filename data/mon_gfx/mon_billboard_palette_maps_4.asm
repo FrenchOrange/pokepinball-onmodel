@@ -99,7 +99,7 @@ TaurosBillboardBGPaletteMap: ; 0xda568
 BulbasaurBillboardBGPaletteMap: ; 0xda800
 	db $7, $7, $7, $7, $7, $7
 	db $7, $7, $7, $7, $7, $7
-	db $7, $7, $7, $6, $7, $7
+	db $7, $7, $7, $6, $7, $6
 	db $7, $7, $7, $6, $6, $7
 
 IvysaurBillboardBGPaletteMap: ; 0xda818
