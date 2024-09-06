@@ -462,12 +462,12 @@ HitmonleeBillboardBGPalette2: ; 0xdc398
 
 HitmonchanBillboardBGPalette1: ; 0xdc3a0
 	RGB 31, 31, 31
-	RGB 31, 21, 13
+	RGB 27, 17, 10
 	RGB 23, 3, 3
 	RGB 0, 0, 0
 HitmonchanBillboardBGPalette2: ; 0xdc3a8
 	RGB 31, 31, 31
-	RGB 31, 21, 13
+	RGB 27, 17, 10
 	RGB 22, 3, 25
 	RGB 0, 0, 0
 

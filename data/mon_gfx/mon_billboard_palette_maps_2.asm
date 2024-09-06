@@ -159,7 +159,7 @@ HitmonleeBillboardBGPaletteMap: ; 0xd88d8
 HitmonchanBillboardBGPaletteMap: ; 0xd88f0
 	db $6, $6, $7, $7, $7, $7
 	db $6, $6, $6, $7, $7, $7
-	db $6, $6, $7, $7, $7, $7
+	db $6, $6, $6, $7, $7, $7
 	db $7, $7, $7, $7, $7, $7
 
 LickitungBillboardBGPaletteMap: ; 0xd8908
