@@ -44,13 +44,13 @@ EeveeAnimatedObjPalette2: ; 0xdbdb8
 
 PorygonAnimatedObjPalette1: ; 0xdbdc0
 	RGB 31, 31, 31
-	RGB 29, 8, 20
-	RGB 0, 0, 31
+	RGB 15, 23, 28
+	RGB 0, 14, 16
 	RGB 0, 0, 0
 PorygonAnimatedObjPalette2: ; 0xdbdc8
 	RGB 31, 31, 31
-	RGB 29, 8, 20
-	RGB 0, 0, 31
+	RGB 31, 23, 25
+	RGB 30, 12, 6
 	RGB 0, 0, 0
 
 OmanyteAnimatedObjPalette1: ; 0xdbdd0

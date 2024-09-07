@@ -1,7 +1,8 @@
 MonAnimatedSpriteTypes: ; 0x13429
 ; Each mon has an animated sprite tilemap type.
-; $03 is bulbasaur's
-; $00 is squirtle's
+; $00 is Squirtle's
+; $03 is Bulbasaur's
+; $09 is Porygon's
 ; All other mon's use $06
 	db $03  ; BULBASAUR
 	db $FF  ; IVYSAUR
@@ -139,8 +140,8 @@ MonAnimatedSpriteTypes: ; 0x13429
 	db $FF  ; VAPOREON
 	db $FF  ; JOLTEON
 	db $FF  ; FLAREON
-	db $06  ; PORYGON
-	db $09  ; OMANYTE
+	db $09  ; PORYGON
+	db $06  ; OMANYTE
 	db $FF  ; OMASTAR
 	db $06  ; KABUTO
 	db $FF  ; KABUTOPS
