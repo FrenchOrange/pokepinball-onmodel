@@ -13,7 +13,7 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 * Fixed the spelling of "Fuchia City", and corrected "Rock Mountain" to "Rock Tunnel".
 * Changed "Poké Dex" to "POKéDEX" on the titlescreen. (Ported from EU version).
 * Changed "POKé DEX" to "POKéDEX" on the Pokédex interface.
-* Changed the initials of the Great / Ultra Ball from S and H to G and U respectively.
+* Removed the S and H initials from the Great / Ultra Ball sprites.
 * Fixed the width inconsistency in the "RUMBLE" label. (Ported from EU version).
 * Fixed Pokémon silhouette-to-portrait inconsistencies.
 * Updated a good handful of Pokémon portraits, animated sprites, and palettes.
