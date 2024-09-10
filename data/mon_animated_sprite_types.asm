@@ -3,6 +3,7 @@ MonAnimatedSpriteTypes: ; 0x13429
 ; $00 is Squirtle's
 ; $03 is Bulbasaur's
 ; $09 is Porygon's
+; $0C is Oddish's
 ; All other mon's use $06
 	db $03  ; BULBASAUR
 	db $FF  ; IVYSAUR
@@ -46,7 +47,7 @@ MonAnimatedSpriteTypes: ; 0x13429
 	db $FF  ; WIGGLYTUFF
 	db $06  ; ZUBAT
 	db $FF  ; GOLBAT
-	db $06  ; ODDISH
+	db $0C  ; ODDISH
 	db $FF  ; GLOOM
 	db $FF  ; VILEPLUME
 	db $06  ; PARAS

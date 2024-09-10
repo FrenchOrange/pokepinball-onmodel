@@ -11,13 +11,13 @@ ZubatAnimatedObjPalette2: ; 0xdb3788
 
 OddishAnimatedObjPalette1: ; 0xdb790
 	RGB 31, 31, 31
-	RGB 27, 29, 5
-	RGB 5, 16, 0
+	RGB 22, 28, 2
+	RGB 7, 18, 0
 	RGB 0, 0, 0
 OddishAnimatedObjPalette2: ; 0xdb798
 	RGB 31, 31, 31
-	RGB 27, 29, 5
-	RGB 5, 16, 0
+	RGB 31, 6, 0
+	RGB 4, 8, 14
 	RGB 0, 0, 0
 
 ParasAnimatedObjPalette1: ; 0xdb7a0

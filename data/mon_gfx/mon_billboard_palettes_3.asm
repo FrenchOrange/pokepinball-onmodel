@@ -165,11 +165,11 @@ BeedrillBillboardBGPalette2: ; 0x8bfe8
 
 PidgeyBillboardBGPalette1: ; 0x8bff0
 	RGB 31, 31, 31
-	RGB 30, 25, 1
-	RGB 26, 9, 3
+	RGB 29, 21, 11
+	RGB 29, 9, 11
 	RGB 0, 0, 0
 PidgeyBillboardBGPalette2: ; 0x8bff8
 	RGB 31, 31, 31
-	RGB 30, 25, 1
-	RGB 26, 9, 3
+	RGB 29, 21, 11
+	RGB 24, 7, 3
 	RGB 0, 0, 0

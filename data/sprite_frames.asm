@@ -59,6 +59,9 @@ SpriteDataPointers: ; 0x4000
 	SpriteDataPointer BoardAnimatedMonType3Frame0Sprite, SPRITE_ANIMATED_MON_TYPE_3_FRAME_0
 	SpriteDataPointer BoardAnimatedMonType3Frame1Sprite, SPRITE_ANIMATED_MON_TYPE_3_FRAME_1
 	SpriteDataPointer BoardAnimatedMonType3Frame2Sprite, SPRITE_ANIMATED_MON_TYPE_3_FRAME_2
+	SpriteDataPointer BoardAnimatedMonType4Frame0Sprite, SPRITE_ANIMATED_MON_TYPE_4_FRAME_0
+	SpriteDataPointer BoardAnimatedMonType4Frame1Sprite, SPRITE_ANIMATED_MON_TYPE_4_FRAME_1
+	SpriteDataPointer BoardAnimatedMonType4Frame2Sprite, SPRITE_ANIMATED_MON_TYPE_4_FRAME_2
 	SpriteDataPointer BottomFieldIndicatorArrowUpLeftSprite, SPRITE_BOTTOM_FIELD_INDICATOR_ARROW_UPLEFT
 	SpriteDataPointer BottomFieldIndicatorArrowUpRightSprite, SPRITE_BOTTOM_FIELD_INDICATOR_ARROW_UPRIGHT
 	SpriteDataPointer BottomFieldIndicatorArrowLeftSprite, SPRITE_BOTTOM_FIELD_INDICATOR_ARROW_LEFT
@@ -205,6 +208,9 @@ SpriteDataPointers: ; 0x4000
 	SpriteDataPointer PokedexAnimatedMonType3Frame0Sprite, SPRITE_POKEDEX_ANIMATED_MON_TYPE_3_FRAME_0
 	SpriteDataPointer PokedexAnimatedMonType3Frame1Sprite, SPRITE_POKEDEX_ANIMATED_MON_TYPE_3_FRAME_1
 	SpriteDataPointer PokedexAnimatedMonType3Frame2Sprite, SPRITE_POKEDEX_ANIMATED_MON_TYPE_3_FRAME_2
+	SpriteDataPointer PokedexAnimatedMonType4Frame0Sprite, SPRITE_POKEDEX_ANIMATED_MON_TYPE_4_FRAME_0
+	SpriteDataPointer PokedexAnimatedMonType4Frame1Sprite, SPRITE_POKEDEX_ANIMATED_MON_TYPE_4_FRAME_1
+	SpriteDataPointer PokedexAnimatedMonType4Frame2Sprite, SPRITE_POKEDEX_ANIMATED_MON_TYPE_4_FRAME_2
 	DEF SPRITE_TIMER_DIGIT = const_value
 	SpriteDataPointer Timer0DigitSprite, SPRITE_TIMER_DIGIT_0
 	SpriteDataPointer Timer1DigitSprite, SPRITE_TIMER_DIGIT_1
@@ -631,6 +637,7 @@ BoardAnimatedMonType2Frame2Sprite: ; 0x4534
 	db $00, $08, $2c, $13
 	db $00, $00, $2a, $13
 	db $00, $f8, $28, $13
+
 	db $f0, $10, $26, $13
 	db $f0, $08, $24, $13
 	db $f0, $00, $22, $13
@@ -674,6 +681,45 @@ BoardAnimatedMonType3Frame2Sprite: ; 0x4597
 	db $00, $00, $2a, $13
 	db $00, $08, $2c, $13
 	db $00, $10, $2e, $13
+	db $80 ; terminator
+
+BoardAnimatedMonType4Frame0Sprite:
+; Oddish
+	db $fe, $00, $98, $15
+	db $00, $00, $9a, $13
+	db $fe, $08, $9e, $15
+	db $00, $08, $9c, $13
+
+	db $f0, $f8, $90, $13
+	db $f0, $00, $92, $13
+	db $f0, $08, $94, $13
+	db $f0, $10, $96, $13
+	db $80 ; terminator
+
+BoardAnimatedMonType4Frame1Sprite:
+; Oddish
+	db $00, $00, $a8, $15
+	db $00, $00, $1a, $13
+	db $00, $08, $1c, $15
+	db $00, $08, $1e, $13
+
+	db $f0, $f8, $a0, $13
+	db $f0, $00, $a2, $13
+	db $f0, $08, $a4, $13
+	db $f0, $10, $a6, $13
+	db $80 ; terminator
+
+BoardAnimatedMonType4Frame2Sprite:
+; Oddish
+	db $00, $00, $28, $15
+	db $00, $00, $2a, $13
+	db $00, $08, $2e, $15
+	db $00, $08, $2c, $13
+
+	db $f8, $f8, $20, $13
+	db $f0, $00, $22, $13
+	db $f0, $08, $24, $13
+	db $f8, $10, $26, $13
 	db $80 ; terminator
 
 BottomFieldIndicatorArrowUpLeftSprite: ; 0x45b8
@@ -1921,6 +1967,75 @@ PokedexAnimatedMonType3Frame2Sprite: ; 0x52d6
 	db $08, $08, $2d, $1b
 	db $00, $10, $2e, $1b
 	db $08, $10, $2f, $1b
+	db $80 ; terminator
+
+PokedexAnimatedMonType4Frame0Sprite:
+; Oddish
+	db $fe, $00, $08, $1d
+	db $06, $00, $09, $1d
+	db $00, $00, $0a, $1b
+	db $08, $00, $0b, $1b
+
+	db $fe, $08, $0e, $1d
+	db $06, $08, $0f, $1d
+	db $00, $08, $0c, $1b
+	db $08, $08, $0d, $1b
+
+	db $f0, $f8, $00, $1b
+	db $f8, $f8, $01, $1b
+	db $f0, $00, $02, $1b
+	db $f8, $00, $03, $1b
+
+	db $f0, $08, $04, $1b
+	db $f8, $08, $05, $1b
+	db $f0, $10, $06, $1b
+	db $f8, $10, $07, $1b
+	db $80 ; terminator
+
+PokedexAnimatedMonType4Frame1Sprite:
+; Oddish
+	db $00, $00, $18, $1d
+	db $08, $00, $19, $1d
+	db $00, $00, $1a, $1b
+	db $08, $00, $1b, $1b
+
+	db $00, $08, $1c, $1d
+	db $08, $08, $1d, $1d
+	db $00, $08, $1e, $1b
+	db $08, $08, $1f, $1b
+
+	db $f0, $f8, $10, $1b
+	db $f8, $f8, $11, $1b
+	db $f0, $00, $12, $1b
+	db $f8, $00, $13, $1b
+
+	db $f0, $08, $14, $1b
+	db $f8, $08, $15, $1b
+	db $f0, $10, $16, $1b
+	db $f8, $10, $17, $1b
+	db $80 ; terminator
+
+PokedexAnimatedMonType4Frame2Sprite:
+; Oddish
+	db $00, $00, $28, $1d
+	db $08, $00, $29, $1d
+	db $00, $00, $2a, $1b
+	db $08, $00, $2b, $1b
+
+	db $00, $08, $2e, $1d
+	db $08, $08, $2f, $1d
+	db $00, $08, $2c, $1b
+	db $08, $08, $2d, $1b
+
+	db $f8, $f8, $20, $1b
+	db $00, $f8, $21, $1b
+	db $f0, $00, $22, $1b
+	db $f8, $00, $23, $1b
+
+	db $f0, $08, $24, $1b
+	db $f8, $08, $25, $1b
+	db $f8, $10, $26, $1b
+	db $00, $10, $27, $1b
 	db $80 ; terminator
 
 Timer0DigitSprite: ; 0x5317

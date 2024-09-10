@@ -1,23 +1,23 @@
 PidgeottoBillboardBGPalette1: ; 0xdba80
 	RGB 31, 31, 31
-	RGB 30, 21, 0
-	RGB 28, 6, 1
+	RGB 29, 21, 11
+	RGB 28, 7, 7
 	RGB 0, 0, 0
 PidgeottoBillboardBGPalette2: ; 0xdba88
 	RGB 31, 31, 31
-	RGB 30, 21, 0
-	RGB 28, 6, 1
+	RGB 29, 21, 11
+	RGB 24, 7, 3
 	RGB 0, 0, 0
 
 PidgeotBillboardBGPalette1: ; 0xdba90
 	RGB 31, 31, 31
-	RGB 26, 23, 0
-	RGB 28, 6, 1
+	RGB 29, 21, 11
+	RGB 29, 4, 5
 	RGB 0, 0, 0
 PidgeotBillboardBGPalette2: ; 0xdba98
 	RGB 31, 31, 31
-	RGB 26, 23, 0
-	RGB 28, 6, 1
+	RGB 29, 21, 11
+	RGB 24, 7, 3
 	RGB 0, 0, 0
 
 RattataBillboardBGPalette1: ; 0xdbaa0

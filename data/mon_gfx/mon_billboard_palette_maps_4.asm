@@ -188,7 +188,7 @@ BeedrillBillboardBGPaletteMap: ; 0xda950
 
 PidgeyBillboardBGPaletteMap: ; 0xda968
 	db $7, $7, $7, $7, $7, $7
-	db $7, $7, $7, $7, $7, $7
+	db $7, $6, $7, $7, $7, $7
 	db $7, $7, $7, $7, $7, $7
 	db $7, $7, $7, $7, $7, $7
 
