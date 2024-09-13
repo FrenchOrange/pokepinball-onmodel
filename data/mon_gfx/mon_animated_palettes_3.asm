@@ -89,12 +89,12 @@ AerodactylAnimatedObjPalette2: ; 0xdbdf8
 SnorlaxAnimatedObjPalette1: ; 0xdbe00
 	RGB 31, 31, 31
 	RGB 31, 25, 9
-	RGB 17, 7, 2
+	RGB 5, 6, 14
 	RGB 0, 0, 0
 SnorlaxAnimatedObjPalette2: ; 0xdbe08
 	RGB 31, 31, 31
 	RGB 31, 25, 9
-	RGB 17, 7, 2
+	RGB 5, 6, 14
 	RGB 0, 0, 0
 
 ArticunoAnimatedObjPalette1: ; 0xdbe10
