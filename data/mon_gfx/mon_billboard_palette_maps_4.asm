@@ -109,10 +109,10 @@ IvysaurBillboardBGPaletteMap: ; 0xda818
 	db $6, $6, $6, $7, $7, $7
 
 VenusaurBillboardBGPaletteMap: ; 0xda830
-	db $7, $7, $6, $7, $7, $7
-	db $7, $7, $7, $7, $7, $7
-	db $7, $6, $6, $6, $6, $7
-	db $7, $7, $6, $6, $6, $7
+	db $7, $7, $7, $6, $7, $7
+	db $7, $7, $7, $6, $7, $7
+	db $7, $6, $6, $6, $7, $7
+	db $7, $7, $6, $6, $7, $7
 
 CharmanderBillboardBGPaletteMap: ; 0xda848
 	db $6, $6, $6, $6, $6, $6

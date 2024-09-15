@@ -34,7 +34,7 @@ VenusaurBillboardBGPalette2: ; 0x8bf28
 CharmanderBillboardBGPalette1: ; 0x8bf30
 	RGB 31, 31, 31
 	RGB 31, 17, 1
-	RGB 26, 0, 0
+	RGB 25, 5, 0
 	RGB 0, 0, 0
 CharmanderBillboardBGPalette2: ; 0x8bf38
 	RGB 31, 31, 31
