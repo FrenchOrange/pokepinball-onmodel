@@ -202,7 +202,7 @@ AlakazamBillboardBGPaletteMap: ; 0xd7a00
 
 MachopBillboardBGPaletteMap: ; 0xd7a18
 	db $6, $6, $6, $6, $6, $6
-	db $6, $6, $6, $6, $6, $7
+	db $6, $6, $6, $6, $7, $7
 	db $6, $6, $6, $6, $6, $6
 	db $6, $6, $6, $6, $6, $6
 
