@@ -231,9 +231,9 @@ WeepinbellBillboardBGPaletteMap: ; 0xd7a78
 	db $7, $7, $7, $6, $6, $6
 
 VictreebellBillboardBGPaletteMap: ; 0xd7a90
-	db $6, $6, $6, $6, $6, $6
-	db $6, $6, $7, $6, $6, $6
-	db $6, $6, $7, $7, $7, $7
+	db $7, $6, $6, $6, $6, $6
+	db $6, $7, $7, $6, $6, $6
+	db $6, $7, $7, $7, $7, $7
 	db $6, $6, $6, $6, $6, $6
 
 TentacoolBillboardBGPaletteMap: ; 0xd7aa8
