@@ -726,12 +726,12 @@ MachopBillboardBGPalette2: ; 0xdc518
 
 MachokeBillboardBGPalette1: ; 0xdc520
 	RGB 31, 31, 31
-	RGB 18, 18, 22
-	RGB 11, 11, 14
+	RGB 18, 17, 22
+	RGB 11, 10, 14
 	RGB 0, 0, 0
 MachokeBillboardBGPalette2: ; 0xdc528
 	RGB 31, 31, 31
-	RGB 18, 18, 22
+	RGB 18, 17, 22
 	RGB 31, 0, 0
 	RGB 0, 0, 0
 

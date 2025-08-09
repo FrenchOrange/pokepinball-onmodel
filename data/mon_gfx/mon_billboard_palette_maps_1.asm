@@ -110,7 +110,7 @@ DiglettBillboardBGPaletteMap: ; 0xd7618
 
 DugtrioBillboardBGPaletteMap: ; 0xd7630
 	db $6, $6, $6, $6, $6, $6
-	db $6, $6, $7, $6, $6, $6
+	db $7, $6, $7, $7, $7, $6
 	db $6, $6, $6, $6, $6, $6
 	db $6, $6, $6, $6, $6, $6
 

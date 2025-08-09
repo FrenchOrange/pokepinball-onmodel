@@ -77,13 +77,13 @@ EkansBillboardBGPalette2: ; 0xdbae8
 
 ArbokBillboardBGPalette1: ; 0xdbaf0
 	RGB 31, 31, 31
-	RGB 30, 16, 24
-	RGB 26, 1, 5
+	RGB 18, 09, 19
+	RGB 11, 4, 14
 	RGB 0, 0, 0
 ArbokBillboardBGPalette2: ; 0xdbaf8
 	RGB 31, 31, 31
-	RGB 30, 16, 24
-	RGB 26, 1, 5
+	RGB 18, 09, 19
+	RGB 25, 1, 6
 	RGB 0, 0, 0
 
 PikachuBillboardBGPalette1: ; 0xdbb00

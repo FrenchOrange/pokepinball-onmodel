@@ -41,10 +41,10 @@ EkansBillboardBGPaletteMap: ; 0xb7c90
 	db $7, $7, $7, $7, $7, $7
 
 ArbokBillboardBGPaletteMap: ; 0xb7ca8
-	db $7, $7, $7, $7, $7, $7
-	db $7, $7, $7, $7, $7, $7
-	db $7, $7, $7, $7, $7, $7
-	db $7, $7, $7, $7, $7, $7
+	db $6, $6, $6, $6, $6, $6
+	db $6, $6, $7, $7, $6, $6
+	db $6, $7, $7, $7, $7, $6
+	db $6, $6, $6, $6, $6, $6
 
 PikachuBillboardBGPaletteMap: ; 0xb7cc0
 	db $7, $7, $7, $7, $7, $7
